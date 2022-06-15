@@ -10,7 +10,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=farrazrizky&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<h3 align="center">A passionate Student who eager to learn
+<h3 align="center">A Passionate Student who Eager to Learn</h3>
+
+- 🌱 I’m currently learning **DevOps Engineering**
+
+- 📫 How to reach me **farrazrizky84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
