@@ -1,6 +1,6 @@
 <h1 align="left">Hi, Good People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"></h1> 
 
-<p align="left">My name is Farraz Rizky Kusumaputra. I'm from Indonesia, living in West Java and currently a College student at Telkom University, Bandung. You can find me on <a href="https://linkedin.com/in/farrazrizky" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Renaldo Fareza Tambunan" width="15" heigth="15"/></a>.</p>
+<p align="left">My name is Farraz Rizky Kusumaputra. I'm from Indonesia, living in West Java and recent graduated with bachelor’s degree in Telecommunication Engineering from Telkom University. You can find me on <a href="https://linkedin.com/in/farrazrizky" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Renaldo Fareza Tambunan" width="15" heigth="15"/></a>.</p>
 
 <h3 align="center">A Passionate Student who Eager to Learn</h3>
 
